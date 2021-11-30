@@ -1,2 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test page</title>
+</head>
+<body>
+    <h1>Hey, I'm a big heading</h1>
+    <p>Hey, I'm a <i> paragraph </i> element. Cool huh?</p>
+    <a href="https://google.com"target="_blank" title="Let's go to Google">Click me, I'm a link!</a>
+    <p>My name is:<br>
+    Clark Kent</p>
+    <img src="https://metro.co.uk/wp-content/uploads/2021/08/Screenshot_2-71a8.jpg?quality=90&strip=all">
+</body>
+</html>
 # Auto detect text files and perform LF normalization
 * text=auto
